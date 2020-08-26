@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="121" height="121" viewBox="0 0 121 121">
-  <g id="Grupo_12506" data-name="Grupo 12506" transform="translate(-325 -9091)">
-    <circle id="Elipse_798" data-name="Elipse 798" cx="60.5" cy="60.5" r="60.5" transform="translate(325 9091)" fill="#ff8f00"/>
-    <path id="Trazado_14003" data-name="Trazado 14003" d="M53.993,0A53.993,53.993,0,1,1,0,53.993,53.993,53.993,0,0,1,53.993,0Z" transform="translate(332 9098)" fill="#fff"/>
-    <text id="_2" data-name="2" transform="translate(365 9126)" fill="#00223d" font-size="40" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="7.557" y="39">2</tspan></text>
+  <g id="Grupo_12515" data-name="Grupo 12515" transform="translate(-325 -12166)">
+    <circle id="Elipse_803" data-name="Elipse 803" cx="60.5" cy="60.5" r="60.5" transform="translate(325 12166)" fill="#ff8f00"/>
+    <path id="Trazado_14008" data-name="Trazado 14008" d="M53.993,0A53.993,53.993,0,1,1,0,53.993,53.993,53.993,0,0,1,53.993,0Z" transform="translate(332 12173)" fill="#fff"/>
+    <path id="Trazado_14470" data-name="Trazado 14470" d="M17.381,33.98H29.412V39H9.51V34.762L20.74,23.3a7.067,7.067,0,0,0,2.441-4.863,3.44,3.44,0,0,0-1.006-2.617,3.96,3.96,0,0,0-2.842-.957q-4,0-4,4.551V21.5l-5.605-.566V19.527A8.8,8.8,0,0,1,12.3,12.74a9.874,9.874,0,0,1,6.992-2.393A10.343,10.343,0,0,1,26.1,12.516a7.307,7.307,0,0,1,2.627,5.957,8.448,8.448,0,0,1-.889,3.867,16.164,16.164,0,0,1-2.822,3.77Z" transform="translate(365 12201)" fill="#00223d"/>
   </g>
 </svg>

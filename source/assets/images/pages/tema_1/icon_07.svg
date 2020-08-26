@@ -2,6 +2,6 @@
   <g id="Grupo_12511" data-name="Grupo 12511" transform="translate(-325 -13420)">
     <circle id="Elipse_808" data-name="Elipse 808" cx="60.5" cy="60.5" r="60.5" transform="translate(325 13420)" fill="#ff8f00"/>
     <path id="Trazado_14013" data-name="Trazado 14013" d="M53.993,0A53.993,53.993,0,1,1,0,53.993,53.993,53.993,0,0,1,53.993,0Z" transform="translate(332 13427)" fill="#fff"/>
-    <text id="_7" data-name="7" transform="translate(365 13455)" fill="#00223d" font-size="40" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="7.557" y="39">7</tspan></text>
+    <path id="Trazado_14474" data-name="Trazado 14474" d="M9.725,10.777H29.588v4.336L16.834,39H10.467L23.26,15.777H9.725Z" transform="translate(365 13455)" fill="#00223d"/>
   </g>
 </svg>
